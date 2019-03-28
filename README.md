@@ -3,19 +3,19 @@
 ## pom.xml引入jar
 ```
 <dependency>
-    		<groupId>org.elasticsearch.client</groupId>
-    		<artifactId>transport</artifactId>
-    		<version>5.2.2</version>
+    	<groupId>org.elasticsearch.client</groupId>
+    	<artifactId>transport</artifactId>
+    	<version>5.2.2</version>
 </dependency>
 <dependency>
-    		<groupId>org.apache.logging.log4j</groupId>
-    		<artifactId>log4j-api</artifactId>
-    		<version>2.7</version>
+    	<groupId>org.apache.logging.log4j</groupId>
+    	<artifactId>log4j-api</artifactId>
+    	<version>2.7</version>
 </dependency>
 <dependency>
-    		<groupId>org.apache.logging.log4j</groupId>
-    		<artifactId>log4j-core</artifactId>
-    		<version>2.7</version>
+    	<groupId>org.apache.logging.log4j</groupId>
+    	<artifactId>log4j-core</artifactId>
+    	<version>2.7</version>
 </dependency>
 ```
 ## 配置log4j
